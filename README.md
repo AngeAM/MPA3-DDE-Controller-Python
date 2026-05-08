@@ -1,6 +1,6 @@
 # MPA3 DDE Controller for Python
 
-**A Python wrapper to control MPA3 data acquisition software via DDE (Dynamic Data Exchange).**
+**A Python wrapper to control MPA3 data acquisition software from Fast ComTech GmbH via DDE (Dynamic Data Exchange).**
 ---
 
 ## 📌 About
